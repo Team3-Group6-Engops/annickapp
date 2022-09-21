@@ -1,2 +1,2 @@
 @Library ('group6-shared-library') _
-claudiApp 'https://github.com/Team3-Group6-Engops/claudiapp.git'
+annickApp 'https://github.com/Team3-Group6-Engops/annickapp.git'
